@@ -1,17 +1,14 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="Fibonacci spiral favicon">
   <rect width="128" height="128" fill="#000000"/>
-  <g stroke="#ffffff" stroke-width="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <g fill="none" stroke="#ffffff" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round">
     <path d="M64 64
-             L64 32
-             A32 32 0 0 1 96 64
-             L96 96
-             A64 64 0 0 1 32 96
-             L32 64
-             A96 96 0 0 1 128 64
-             L128 32
-             A120 120 0 0 1 8 32
-             L8 96
-             A96 96 0 0 1 104 96"/>
+             L64 56
+             A8 8 0 0 1 72 64
+             A13 13 0 0 1 59 77
+             A21 21 0 0 1 80 98
+             A34 34 0 0 1 46 132
+             A55 55 0 0 1 101 77
+             A89 89 0 0 1 12 166"/>
     <circle cx="64" cy="64" r="2.5" fill="#ffffff" stroke="none"/>
   </g>
 </svg>
